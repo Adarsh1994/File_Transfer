@@ -11,7 +11,8 @@ The 4 file simulates the function of each of the 4 layer. The same code (all 4 f
 
 Example
 
-sh receiver.sh received_data.txt (on destination machine) sh sender.sh data 10.100.50.32 (on sender machine)
+sh receiver.sh received_data.txt (on destination machine) 
+sh sender.sh data 10.100.50.32 (on sender machine)
 
 Implementation Details
 
