@@ -22,6 +22,8 @@ Contributors
 
 The project was made by team Bug Assassins
 
-Ashish Kedia (ashish1294@gmail.com)
-Ajith P S (ajithpandel@gmail.com)
-Adarsh Mohata (amohta163@gmail.com)
+1.Ashish Kedia (ashish1294@gmail.com)
+
+2.Ajith P S (ajithpandel@gmail.com)
+
+3.Adarsh Mohata (amohta163@gmail.com)
